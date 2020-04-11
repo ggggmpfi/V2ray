@@ -2,7 +2,7 @@
 The copyright of all materials in this repository belongs to V2ray official. If there is any infringement, please contact to delete!
 
 服务端：
-一
+执行一键脚本：bash <(curl -L -s https://github.com/ggggmpfi/V2ray/blob/master/go.sh)
 
 客户端：
 Linux版V2ray的使用方法：下载压缩包后解压，将文件移动到指定位置
