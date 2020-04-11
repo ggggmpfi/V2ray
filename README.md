@@ -5,7 +5,7 @@
 服务端：
 
 执行官方脚本：bash <(curl -L -s https://raw.githubusercontent.com/ggggmpfi/V2ray/master/go.sh)
-或执行233一键脚本：bash <(curl -s -L https://raw.githubusercontent.com/ggggmpfi/V2ray/master/v2ray.sh)
+或执行233一键脚本：bash <(curl -s -L https://raw.githubusercontent.com/ggggmpfi/V2ray/master/V2ray.sh)
 
 
 客户端（安装包在"release"中）：
