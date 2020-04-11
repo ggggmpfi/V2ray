@@ -9,7 +9,7 @@ The copyright of all materials in this repository belongs to V2ray official. If 
 
 客户端：
 
-Linux版V2ray的使用方法：下载压缩包后解压，将文件移动到指定位置
+Linux版V2ray的使用方法：在"release"中下载压缩包后解压，将文件移动到指定位置
 
 /usr/bin/v2ray/v2ray：V2Ray 程序；
 
