@@ -1,6 +1,10 @@
 # V2ray
 The copyright of all materials in this repository belongs to V2ray official. If there is any infringement, please contact to delete!
 
+服务端：
+一
+
+客户端：
 Linux版V2ray的使用方法：下载压缩包后解压，将文件移动到指定位置
 /usr/bin/v2ray/v2ray：V2Ray 程序；
 /usr/bin/v2ray/v2ctl：V2Ray 工具；
