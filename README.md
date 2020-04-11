@@ -1,5 +1,5 @@
 # V2ray
-The copyright of all materials in this repository belongs to V2ray official. If there is any infringement, please contact to delete!
+！！！The copyright of all materials in this repository belongs to V2ray official. If there is any infringement, please contact to delete!
 
 
 服务端：
